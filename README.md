@@ -1,6 +1,6 @@
-#Modern Exploration &amp; Visualization
+# Modern Exploration &amp; Visualization
 
-##Ejercicio Final
+## Ejercicio Final
 Enunciado:
 1. Crear una gráfica de barras que represente cuántos mundiales
 tiene cada equipo.
